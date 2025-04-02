@@ -5,7 +5,7 @@
 
 ---
 
-## **Glossary***  
+## **Glossary**  
 Here’s a glossary of key terms from Heidegger’s *Being and Time* as discussed in the seminar: 
 
 #### **Dasein (Da-sein)**
