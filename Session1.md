@@ -6,7 +6,7 @@
 ---
 
 ## **Glossary**  
-Here’s a glossary of key terms from Heidegger’s *Being and Time* as discussed in the seminar: 
+* Here’s a glossary of key terms from Heidegger’s *Being and Time* as discussed in the seminar: 
 
 #### **Dasein (Da-sein)**
 A German term meaning "being-there," used by Heidegger to refer to human existence. *Dasein* is unique in that it questions its own being and is always already in the world.  
