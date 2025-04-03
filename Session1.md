@@ -6,16 +6,15 @@
 ---
 
 ## **Glossary**  
-* Here’s a glossary of key terms from Heidegger’s *Being and Time* as discussed in the seminar: 
 
 #### **Dasein (Da-sein)**
-A German term meaning "being-there," used by Heidegger to refer to human existence. *Dasein* is unique in that it questions its own being and is always already in the world.  
+* A German term meaning "being-there," used by Heidegger to refer to human existence. *Dasein* is unique in that it questions its own being and is always already in the world.  
 
 #### **Being (Sein)**
-The central concept of Heidegger’s philosophy. He argues that Western metaphysics has forgotten the question of being, treating it as self-evident instead of deeply interrogating it.  
+* The central concept of Heidegger’s philosophy. He argues that Western metaphysics has forgotten the question of being, treating it as self-evident instead of deeply interrogating it.  
 
 #### **Being-in-the-world (In-der-Welt-sein)**
-A fundamental structure of *Dasein*, emphasizing that human existence is always already embedded in a world of relationships, objects, and other beings.  
+* A fundamental structure of *Dasein*, emphasizing that human existence is always already embedded in a world of relationships, objects, and other beings.  
 
 #### **Thrownness (Geworfenheit)**
 The idea that *Dasein* is "thrown" into existence without choosing its circumstances (such as birthplace, historical moment, or biological limitations).  
