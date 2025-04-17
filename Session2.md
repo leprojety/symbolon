@@ -2,7 +2,7 @@
 **A Philosophical Analysis of the Anthropocene**  
 *by Hye Young Kim*
 
-![Reading at Sunset](102d95f5-352b-4f44-a08b-073c1ab523a0.png)
+![Reading at Sunset](images/session2.jpg)
 
 ---
 
