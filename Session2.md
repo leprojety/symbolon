@@ -30,13 +30,16 @@ This paper explores the current technological condition of humanity—exemplifie
 | Term           | Definition |
 |----------------|------------|
 | **Anthropocene** | A proposed geological epoch marked by significant human impact on Earth's geology and ecosystems. |
-| **Techne (τέχνη)** | Ancient Greek term meaning art, craft, or technical skill; considered a virtue of thought by Aristotle. |
+| **Techne (τέχνη)** | Art, craft, or practical skill; the capacity to produce through learned technique. One of Aristotle's five intellectual virtues. |
+| **Episteme (ἐπιστήμη)** | Scientific knowledge of necessary and eternal truths; systematic and demonstrable understanding. |
+| **Phronesis (φρόνησις)** | Practical wisdom or prudence; the moral and deliberative ability to make good decisions in specific contexts. |
+| **Sophia (σοφία)** | Theoretical wisdom, combining episteme and nous; insight into ultimate truths. |
+| **Nous (νοῦς)** | Intellect or intuitive reason; the ability to apprehend self-evident truths and first principles. |
 | **Telos (τέλος)** | The end, purpose, or goal of an action or object. |
 | **Entelechy (ἐντελέχεια)** | The realization of potential; the condition in which a thing achieves its purpose or end. |
 | **Energeia (ἐνέργεια)** | Actuality or activity; a state of being actively engaged in fulfilling a function. |
 | **Ergon (ἔργον)** | Work, function, or activity; often the fulfillment or manifestation of a purpose. |
 | **Dasein** | Heidegger's term for human existence, particularly as a being that questions its own Being. |
-| **Sophia (σοφία)** | Wisdom, particularly as a combination of knowledge and intuitive grasp of ultimate truths. |
 | **Fourth Industrial Revolution** | A period of technological fusion involving AI, biotechnology, and automation, reshaping society. |
 
 ---
