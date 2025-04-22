@@ -53,7 +53,7 @@ Hyong supplements Heidegger’s framework by linking **temporality to storytelli
 - **Martin Heidegger**, *Being and Time* (Sein und Zeit), 1927.  
   Heidegger's foundational work in existential ontology, exploring Dasein, temporality, authenticity, and care.
 
-- **Hye Yong Kim**, *Sorge und Geschichte* 
+- **Hye Yong Kim**, *Sorge und Geschichte*. 
   Phänomenologische Untersuchung im Anschluss an Heidegger.
 
 - **Edmund Husserl**, *Lectures on the Phenomenology of Internal Time-Consciousness*.  
