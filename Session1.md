@@ -1,66 +1,45 @@
-# Heidegger's Temporality, History, or Story in Being and Time
+# Symbolon Seminar #1 – Heidegger’s *Being and Time*
 
-[Recording](https://www.youtube.com/live/fjL2_Y25XDE?si=uoPbONZAEQlFsxNY)
+![session1](./images/session1.png)
 
-## **Glossary**  
+## 🔹 Summary
 
-#### **Dasein (Da-sein)**
-* A German term meaning "being-there," used by Heidegger to refer to human existence. *Dasein* is unique in that it questions its own being and is always already in the world.  
+The seminar introduces the Symbolon project, a philosophical and interdisciplinary initiative exploring AI, society, and metaphysical questions. This session, led by Hyong, focuses on Heidegger’s *Being and Time* (1927), centering on the concept of **Dasein** — the human being that questions its own being. Through Dasein, Heidegger explores **temporality**, **authenticity**, **death**, **care (Sorge)**, and **understanding** as existential structures rather than psychological or cognitive categories.
 
-#### **Being (Sein)**
-* The central concept of Heidegger’s philosophy. He argues that Western metaphysics has forgotten the question of being, treating it as self-evident instead of deeply interrogating it.  
+The analysis follows how temporality structures human existence as a tension between the **past (having-been)**, **future (possibility, especially death)**, and **present (being-here-now)**. The concept of **care** becomes central to this structure — not as a feeling, but as the existential mode by which humans engage with being.
 
-#### **Being-in-the-world (In-der-Welt-sein)**
-* A fundamental structure of *Dasein*, emphasizing that human existence is always already embedded in a world of relationships, objects, and other beings.  
+Hyong supplements Heidegger’s framework by linking **temporality to storytelling**, proposing that narrating one's existence (even inwardly) provides a phenomenological bridge between individual existence and intersubjective understanding, potentially avoiding solipsism.
 
-#### **Thrownness (Geworfenheit)**
-* The idea that *Dasein* is "thrown" into existence without choosing its circumstances (such as birthplace, historical moment, or biological limitations).  
+## ⏱️ Timestamped Topics
 
-#### **Care (Sorge)**
-* The fundamental structure of *Dasein*’s existence. Care refers to the way we are always concerned with our being, the future, and our possibilities.  
+| Time       | Topic                                                                                   |
+|------------|------------------------------------------------------------------------------------------|
+| 0:00–1:20   | Introduction to Symbolon, seminar goals, interdisciplinary approach                    |
+| 1:20–4:40   | Introduction of Heidegger and *Being and Time*                                          |
+| 4:40–7:22   | Key concepts: Dasein, temporality, care, anxiety, death, understanding                 |
+| 7:22–15:00  | What is Dasein? The being that questions its own being                                 |
+| 15:00–24:00 | Human finitude, temporality, and death                                                  |
+| 24:00–34:00 | Temporality: the now (having-been), future (walking-ahead), and return (coming back)   |
+| 34:00–45:00 | Authentic vs. inauthentic existence; death as the most authentic possibility           |
+| 45:00–54:00 | Care (Sorge) as existential structure, not emotional state                             |
+| 54:00–1:06:00| Understanding as existence; distinction from cognition/consciousness                  |
+| 1:06:00–1:14:00 | Heidegger’s critique of subjectivity and modern philosophy                          |
+| 1:14:00–1:22:00 | Freedom toward death and paradoxes of finitude                                       |
+| 1:22:00–1:30:00 | Temporality as emergence and narrative; proposal of storytelling as existential act |
 
-#### **Temporality (Zeitlichkeit)**
-* The structure of *Dasein*’s existence as being fundamentally bound to time. Heidegger focuses on future-oriented temporality rather than memory-based past consciousness.  
+## 🧾 Glossary of Key Terms
 
-#### **Authenticity (Eigentlichkeit)**
-* A mode of existence where *Dasein* fully acknowledges its finitude and actively takes responsibility for its being.  
-
-#### **Inauthenticity (Uneigentlichkeit)**
-* A state in which *Dasein* is absorbed in everyday distractions and conforms to societal norms, avoiding the confrontation with its own mortality.  
-
-#### **The They (Das Man)**
-* The anonymous collective or impersonal social norms that dictate much of everyday life. *Dasein* often loses itself in *Das Man*, behaving as "one does" rather than choosing its own path.  
-
-#### **Anxiety (Angst)**
-* A fundamental mood in which *Dasein* becomes aware of the nothingness underlying existence and its own mortality. Unlike fear, which has a specific object, anxiety reveals the groundlessness of existence.  
-
-#### **Being-toward-death (Sein-zum-Tode)**
-* The idea that *Dasein* is always oriented toward its own death, which is its most certain and personal possibility. Acknowledging this allows for an authentic existence.  
-
-#### **Guilt (Schuld)**
-* Not moral guilt but an existential condition arising from the fact that *Dasein* always has unfulfilled possibilities and is responsible for its own being.  
-
-#### **Understanding (Verstehen)**
-* Not merely intellectual comprehension but an existential way of being in the world. *Dasein* always interprets its own existence in terms of possibilities.  
-
-#### **Projection (Entwurf)**
-* The way *Dasein* constantly projects itself into the future, shaping its possibilities and making meaning out of existence.  
-
-#### **Thrown Projection (Geworfener Entwurf)**
-* A combination of *thrownness* and *projection*, showing that *Dasein* is both determined by circumstances and free to shape its future.  
-
-#### **Mood (Stimmung)**
-* A pre-reflective way in which *Dasein* finds itself in the world. Moods reveal our fundamental relationship to existence before intellectual thought does.  
-
-#### **World (Welt)**
-* Not just the physical universe but the meaningful context in which *Dasein* exists and interprets its being.  
-
-#### **Historicality (Geschichtlichkeit)**
-* The idea that *Dasein* is not only shaped by its personal past but also by historical traditions and collective human experience.  
-
-#### **Freedom toward Death (Freiheit zum Tode)**
-* A paradoxical concept where true existential freedom is achieved by fully recognizing and accepting mortality.  
-
-
-
-
+| Term                | Definition |
+|---------------------|------------|
+| **Dasein**          | Literally "being-there" (German); the being for whom being is a question. For Heidegger, this is the human being. |
+| **Being (Sein)**    | That which determines entities as entities; the foundational philosophical question in Heidegger's work. |
+| **Temporality (Zeitlichkeit)** | The structure of time as it is lived by Dasein: having-been (past), walking-ahead (future), and the now. |
+| **Thrownness (Geworfenheit)** | The fact that we find ourselves already in a world not of our choosing; a fundamental condition of Dasein. |
+| **Care (Sorge)**     | The basic mode of being of Dasein; how we relate to our own being and the world. Not emotion, but existential structure. |
+| **Authenticity / Inauthenticity** | Ways of being: authenticity involves owning one’s potential and finitude; inauthenticity means being absorbed in "the they" (das Man). |
+| **Anxiety (Angst)** | A state (not a feeling) where Dasein faces the nothingness of its being, especially death. |
+| **Understanding (Verstehen)** | Not cognition, but an existential mode through which Dasein projects possibilities of being. |
+| **The They (das Man)** | The anonymous collective through which inauthentic existence manifests — living as everyone else lives. |
+| **Freedom toward death** | The existential stance of recognizing death as the ultimate possibility and orienting oneself authentically toward it. |
+| **Throne projection (Geworfen Entwurf)** | A compound existential structure: we are thrown into existence but project ourselves forward through choice and understanding. |
+| **Narrative / Storytelling** | (As interpreted by the speaker) A way of making temporality and existence intelligible, linking personal and shared experience. |
