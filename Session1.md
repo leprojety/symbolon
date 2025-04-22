@@ -1,4 +1,4 @@
-# Symbolon Seminar #1 – Heidegger’s *Being and Time*
+# Symbolon #1 – Heidegger’s *Being and Time*
 
 ![session1](./images/session1.png)
 
