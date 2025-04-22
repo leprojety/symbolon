@@ -3,8 +3,8 @@
 ![Sunset Reader](./images/session1.png)
 
 
-## 🎥 Watch the Seminar
-[![YouTube](./images/icons8-youtube-50.png)](https://www.youtube.com/live/fjL2_Y25XDE?si=UcFyS0C2sDcKKY8u) [Watch the seminar on YouTube](https://www.youtube.com/live/fjL2_Y25XDE?si=UcFyS0C2sDcKKY8u)
+
+[![YouTube](./images/icons8-youtube-50.png)(https://www.youtube.com/live/fjL2_Y25XDE?si=UcFyS0C2sDcKKY8u) [Watch the seminar on YouTube](https://www.youtube.com/live/fjL2_Y25XDE?si=UcFyS0C2sDcKKY8u)]
 
 
 ## 🔹 Summary
