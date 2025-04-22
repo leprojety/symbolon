@@ -1,6 +1,6 @@
 # Symbolon #1 – Heidegger’s *Being and Time*
 
-![session1](./images/session1.png)
+![Sunset Reader](./images/session1.png)
 
 ## 🔹 Summary
 
@@ -10,22 +10,21 @@ The analysis follows how temporality structures human existence as a tension bet
 
 Hyong supplements Heidegger’s framework by linking **temporality to storytelling**, proposing that narrating one's existence (even inwardly) provides a phenomenological bridge between individual existence and intersubjective understanding, potentially avoiding solipsism.
 
-## ⏱️ Timestamped Topics
+## 🧭 Timeline of Key Concepts and Questions
 
-| Time       | Topic                                                                                   |
-|------------|------------------------------------------------------------------------------------------|
-| 0:00–1:20   | Introduction to Symbolon, seminar goals, interdisciplinary approach                    |
-| 1:20–4:40   | Introduction of Heidegger and *Being and Time*                                          |
-| 4:40–7:22   | Key concepts: Dasein, temporality, care, anxiety, death, understanding                 |
-| 7:22–15:00  | What is Dasein? The being that questions its own being                                 |
-| 15:00–24:00 | Human finitude, temporality, and death                                                  |
-| 24:00–34:00 | Temporality: the now (having-been), future (walking-ahead), and return (coming back)   |
-| 34:00–45:00 | Authentic vs. inauthentic existence; death as the most authentic possibility           |
-| 45:00–54:00 | Care (Sorge) as existential structure, not emotional state                             |
-| 54:00–1:06:00| Understanding as existence; distinction from cognition/consciousness                  |
-| 1:06:00–1:14:00 | Heidegger’s critique of subjectivity and modern philosophy                          |
-| 1:14:00–1:22:00 | Freedom toward death and paradoxes of finitude                                       |
-| 1:22:00–1:30:00 | Temporality as emergence and narrative; proposal of storytelling as existential act |
+| Phase                    | Key Concept or Question Explored                                                                      |
+|--------------------------|--------------------------------------------------------------------------------------------------------|
+| Opening                  | What is Symbolon? Why bring interdisciplinary voices into AI-philosophy dialogue?                      |
+| Introduction to Heidegger| Who is Heidegger, and why does *Being and Time* matter?                                                |
+| Dasein                   | What does it mean to be a being that questions its own being?                                          |
+| Human Finitude           | How does knowing we will die structure our understanding of time and meaning?                         |
+| Temporality              | What is temporality, and how is it different from measurable clock time?                              |
+| Authenticity             | What does it mean to live authentically versus inauthentically?                                       |
+| Death                    | Why is death the most authentic possibility of being?                                                 |
+| Care (Sorge)             | What does it mean to care existentially — not just emotionally?                                       |
+| Understanding            | How is understanding not cognition, but a mode of being?                                               |
+| Heidegger vs. Tradition  | How does Heidegger critique modern subjectivity and offer a new vision of freedom?                    |
+| Narrative/Storytelling   | Can storytelling reveal the structure of our being-in-time and help us share meaning with others?     |
 
 ## 🧾 Glossary of Key Terms
 
