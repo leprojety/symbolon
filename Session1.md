@@ -47,3 +47,29 @@ Hyong supplements Heidegger’s framework by linking **temporality to storytelli
 | **Freedom toward death** | The existential stance of recognizing death as the ultimate possibility and orienting oneself authentically toward it. |
 | **Throne projection (Geworfen Entwurf)** | A compound existential structure: we are thrown into existence but project ourselves forward through choice and understanding. |
 | **Narrative / Storytelling** | (As interpreted by the speaker) A way of making temporality and existence intelligible, linking personal and shared experience. |
+
+## 📚 Bibliography & Works Cited
+
+- **Martin Heidegger**, *Being and Time* (Sein und Zeit), 1927.  
+  Heidegger's foundational work in existential ontology, exploring Dasein, temporality, authenticity, and care.
+
+- **Hyong’s Book** (as mentioned): *Meaning, Care and History: A Phenomenological Study in Connection to Heidegger* (title paraphrased).  
+  A personal interpretation and elaboration on Heidegger’s existential structures.
+
+- **Edmund Husserl**, *Lectures on the Phenomenology of Internal Time-Consciousness*.  
+  Husserl’s analysis of time consciousness through memory and retention, a major influence on Heidegger.
+
+- **G.W.F. Hegel**, *Phenomenology of Spirit* and the notion of “becoming” (Werden).  
+  Referenced indirectly in the discussion on emergence, history, and temporality.
+
+- **Hans-Georg Gadamer**, *Truth and Method*.  
+  A student of Heidegger who interpreted *Being and Time* through the lens of understanding (Verstehen).
+
+- **René Descartes**, *Meditations on First Philosophy*.  
+  Referenced in critique of subjectivity and the cogito (“I think, therefore I am”).
+
+- **Immanuel Kant**, *Critique of Pure Reason*.  
+  Background reference in contrast to Heidegger's rejection of traditional metaphysics.
+
+- **German Idealism** (Fichte, Schelling, Hegel)  
+  Referenced as part of the tradition Heidegger aims to reframe or move beyond.
