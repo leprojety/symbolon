@@ -1,5 +1,10 @@
 # Symbolon #1 – Heidegger’s *Being and Time*
 
+## 🎥 Watch the Seminar
+
+[![Watch the Seminar on YouTube](https://img.youtube.com/vi/fjL2_Y25XDE/0.jpg)](https://www.youtube.com/live/fjL2_Y25XDE?si=UcFyS0C2sDcKKY8u)
+
+
 ![Sunset Reader](./images/session1.png)
 
 ## 🔹 Summary
