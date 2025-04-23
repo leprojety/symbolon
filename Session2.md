@@ -43,3 +43,25 @@ This paper explores the current technological condition of humanity—exemplifie
 | **Fourth Industrial Revolution** | A period of technological fusion involving AI, biotechnology, and automation, reshaping society. |
 
 ---
+
+## 📚 References
+
+1. Aristotle. (1999). *Nicomachean ethics* (T. Irwin, Trans.). Hackett Publishing Company.
+
+2. Aristotle. (1984). *Metaphysics* (W. D. Ross, Trans.). In J. Barnes (Ed.), *The complete works of Aristotle* (Vol. 2, pp. 1552–1728). Princeton University Press.
+
+3. Heidegger, M. (1962). *Being and time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row.
+
+4. Jonas, H. (1980). The practical uses of theory: The idea of entelechy in Aristotle. In *Philosophical essays: From ancient creed to technological man* (pp. 113–138). University of Chicago Press.
+
+5. Simondon, G. (2017). *On the mode of existence of technical objects* (N. Mellamphy, Trans.). Univocal Publishing.
+
+6. Vallor, S. (2016). *Technology and the virtues: A philosophical guide to a future worth wanting*. Oxford University Press.
+
+7. Bostrom, N. (2014). *Superintelligence: Paths, dangers, strategies*. Oxford University Press.
+
+8. Dreyfus, H. L. (1992). *What computers still can’t do: A critique of artificial reason*. MIT Press.
+
+9. Hui, Y. (2016). *The question concerning technology in China: An essay in cosmotechnics*. Urbanomic.
+
+10. Latour, B. (1993). *We have never been modern* (C. Porter, Trans.). Harvard University Press.
