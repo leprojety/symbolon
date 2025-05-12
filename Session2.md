@@ -53,5 +53,3 @@ The following table provides definitions for key terms used in the seminar, root
 - The discussion highlights the need to understand human telos and existence more deeply, as technology, even without consciousness, profoundly shapes human behavior and cultural norms.
 
 ---
-
-This Markdown content can be saved as a `.md` file (e.g., `entelechy_of_technology.md`) and rendered in any Markdown viewer or editor. The tables ensure clarity and structure for the **Key Concepts** and **Glossary** sections. Let me know if you need assistance with saving or formatting the file, or if you’d like additional modifications!
