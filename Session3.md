@@ -6,7 +6,7 @@
 
 ---
 
-# Symbolon #3 - Subjectivity: A Philosophical Exploration
+# Symbolon #3 - Subjectivity (Self as Subject)
 
 This document provides a summary, key concepts, and glossary based on the transcript of the third session of the Symbolon seminar series exploring philosophical concepts in the context of AI and human existence.
 
@@ -60,7 +60,7 @@ The following table provides definitions for key terms used in the seminar relat
 
 ## 🎥 Recording
 
-[![YouTube](./images/icons8-youtube-50.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the recording on YouTube](https://www.youtube.com/live/PNc_rd0RrdA?si=BlUT7_ajl11E6HDk)
 
 ## 🗣️ About the Speaker
 
