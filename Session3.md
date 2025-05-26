@@ -68,7 +68,7 @@ Hye Young Kim is an associate researcher at Husserl Archives at Ecole Normale Su
 
 ## 📚 References
 
-- Kim, H. (Year). *We Ourselves as Self*. [Book referenced in the lecture]
+- Kim, H. (2021). *We as Self: Ouri, Intersubjectivity, and Presubjectivity*. [Book referenced in the lecture]
 - Descartes, R. (1641). *Meditations on First Philosophy*.
 - Kant, I. (1781). *Critique of Pure Reason*.
 - Fichte, J.G. (1794). *Foundations of the Entire Science of Knowledge*.
