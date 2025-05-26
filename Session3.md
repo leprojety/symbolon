@@ -1,6 +1,6 @@
 # Subjectivity
-**A Philosophical Exploration of Self as Subject**  
-*by Hong Kim*
+**Self as Subject**  
+*by Hye Young Kim*
 
 ![Philosophical Discussion](images/session3.jpg)
 
@@ -12,7 +12,7 @@ This document provides a summary, key concepts, and glossary based on the transc
 
 ## Summary
 
-The third session of the Symbolon seminar focuses on **subjectivity**, examining what it means to be a subject or self, particularly in the context of AI and consciousness debates. Presenter Hong Kim traces the historical evolution of the concept from Descartes' "I think, therefore I am" through Kant, Fichte, Hegel, and 20th-century phenomenology. The discussion explores three interrelated dimensions of subjectivity: the **subject-object relation**, **modes of self-awareness**, and **forms of the subject** (passive, active, and medial passive). Kim challenges the traditional Cartesian model of the subject as autonomous, isolated, and transparent to itself, proposing instead a relational, layered, and recursive understanding of selfhood that unfolds through time, language, and relation to others. The seminar concludes by highlighting the contemporary relevance of these philosophical insights, particularly for understanding consciousness in AI and resisting reductive views of human existence. A key point emerged about how different languages encode different philosophies of selfhood, suggesting that the Western paradigm of subjectivity is not universal.
+The third session of the Symbolon seminar focuses on **subjectivity**, examining what it means to be a subject or self, particularly in the context of AI and consciousness debates. Presenter Hye Young Kim traces the historical evolution of the concept from Descartes' "I think, therefore I am" through Kant, Fichte, Hegel, and 20th-century phenomenology. The discussion explores three interrelated dimensions of subjectivity: the **subject-object relation**, **modes of self-awareness**, and **forms of the subject** (passive, active, and medial passive). Hye Young Kim challenges the traditional Cartesian model of the subject as autonomous, isolated, and transparent to itself, proposing instead a relational, layered, and recursive understanding of selfhood that unfolds through time, language, and relation to others. The seminar concludes by highlighting the contemporary relevance of these philosophical insights, particularly for understanding consciousness in AI and resisting reductive views of human existence. A key point emerged about how different languages encode different philosophies of selfhood, suggesting that the Western paradigm of subjectivity is not universal.
 
 ## Key Concepts Discussed
 
@@ -51,7 +51,7 @@ The following table provides definitions for key terms used in the seminar relat
 ## Notes
 
 - The seminar connects directly to contemporary discussions about AI consciousness, suggesting that understanding subjectivity is necessary for addressing whether machines can be conscious.
-- Kim challenges the dominance of the Cartesian model of subjectivity, which still influences how we think about consciousness in both humans and AI.
+- Hye Young Kim challenges the dominance of the Cartesian model of subjectivity, which still influences how we think about consciousness in both humans and AI.
 - The discovery that different languages encode different models of selfhood suggests the Western philosophical tradition's understanding of subjectivity is not universal.
 - The concept of the medial passive subject offers a middle path between seeing humans as fully autonomous agents or as determined beings, acknowledging both freedom and constraint.
 - These philosophical insights have practical implications for how we conceptualize identity in law, politics, science, and technology.
@@ -64,7 +64,7 @@ The following table provides definitions for key terms used in the seminar relat
 
 ## 🗣️ About the Speaker
 
-Hong Kim is an associate researcher at H Archive at Ecole Normale Supérieure in Paris, specializing in philosophy. Her work explores concepts of self, subjectivity, and intersubjectivity, with a particular focus on how different linguistic and cultural frameworks shape our understanding of consciousness.
+Hye Young Kim is an associate researcher at Husserl Archives at Ecole Normale Supérieure in Paris, specializing in philosophy. Her work explores concepts of self, subjectivity, and intersubjectivity, with a particular focus on how different linguistic and cultural frameworks shape our understanding of consciousness.
 
 ## 📚 References
 
@@ -83,4 +83,4 @@ Hong Kim is an associate researcher at H Archive at Ecole Normale Supérieure in
 
 The next sessions in this series will explore:
 1. Intersubjectivity - How selves relate to other selves
-2. Pre-subjectivity - A new concept proposed by Hong Kim
+2. Pre-subjectivity - A new concept proposed by Hye Young Kim
