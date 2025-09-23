@@ -1,5 +1,7 @@
 # Geometry of Shared Consciousness in Conversation
+*by louis kauffmann and Hye Young Kim*
 
+![Philosophical Discussion](images/session5jpg)
 ## Summary
 The seminar, presented by Luis Kman, explores the "Geometry of Shared Consciousness in Conversation," proposing that conversation can be modeled using mathematical structures, specifically the complex plane, to represent the dynamic interplay of consciousness between individuals. The talk begins by questioning how shared consciousness arises despite the solitary nature of subjective experience. It introduces a framework where two conversants, labeled as "+1" and "−1," engage in a dialogue that mirrors the structure of complex numbers, with "I" and "−I" (square roots of negative unity) representing transitions in speech. The complex plane serves as a metaphor for conversational dynamics, where Euler’s formula and oscillations illustrate the fluid exchange between speakers. The discussion extends to category theory for multiple conversants and projective geometry to capture the unity and fluidity of shared consciousness. The talk concludes that conversation is not just an exchange of words but a structured geometry that connects self and other, revealing a relational, collective consciousness.
 
