@@ -41,6 +41,5 @@ The transcript does not provide explicit references to external sources, but it 
 5. **Topology and the Möbius Band**:
    - Stillwell, J. (2002). *Geometry of Surfaces*. Springer. (For topological concepts like the Möbius band.)
 
-**Note**: The seminar is part of a broader project, and the presenters suggest following their channel or social media for further details, though specific links are not provided in the transcript. For pricing or access to related xAI services (e.g., API), users are directed to [https://x.ai/api](https://x.ai/api).
 
 <button onclick="navigator.clipboard.writeText(document.querySelector('pre').innerText)">Copy to Clipboard</button>
