@@ -1,5 +1,5 @@
 # Geometry of Shared Consciousness in Conversation
-*by louis kauffmann and Hye Young Kim*
+*by Louis Kauffmann and Hye Young Kim*
 
 ![Philosophical Discussion](images/session5.jpg)
 ## Summary
